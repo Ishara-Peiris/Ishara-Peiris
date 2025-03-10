@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Mental health support system](https://github.com/Ishara-Peiris/individual_project.git)
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I’m currently working with **React,Node**
 
-- 🤝 I’m looking for help with **Getting an Internship**
+- 🤝 Currently I am looking for software engineer internship
 
 - 📫 How to reach me **isharapeiris2001@gmail.com**
 
