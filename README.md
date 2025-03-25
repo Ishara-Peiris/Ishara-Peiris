@@ -30,4 +30,4 @@ Full Stack Developer | Undergraduate at the University of Moratuwa Passionate ab
 
 <a href="http://www.github.com/Ishara-Peiris"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishara-Peiris&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ishara-Peiris"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ishara-Peiris&bg_color=1c1917&color=14b8a6&line=10b981&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
